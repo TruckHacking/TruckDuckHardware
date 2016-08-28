@@ -1,0 +1,8 @@
+Truck Duck OBDII Adapter BOM 
+for Cars/Some heavy vehicles
+
+8-Pin 2.54mm screw Terminal, QTY 2
+On Shore Technology OSTVN08A150 (Digi-key P/N: ED10566-ND)
+
+SparkFun OBDII Connector (DEV-09911) - QTY 1
+https://www.sparkfun.com/products/9911
